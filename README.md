@@ -34,20 +34,27 @@ LEDGR offers a "zero-effort" solution by leveraging email forwarding and AI:
 Your personalized dashboard offers an at-a-glance overview of your financial health: see total spending, stay on top of budget progress, track order processing, and review recent purchases, all in one place for quick decision-making.
 ![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ubm6jfkdtxn4ad01c8fm.png)
 
+
 The Orders tab neatly lists every purchase automatically logged from your forwarded emails, providing a complete and easily searchable history of your online spending.
 ![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5cydllx9uri213ub4tei.png)
+
 
 Dive deeper into any purchase with a detailed order view. See every item, its price, and its AI-assigned category, giving you granular control and understanding of where your money went.
 ![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gdfdg77x7du4d1qoj5is.png)
 
+
 Instantly filter your purchases by category to understand spending in specific areas like 'Groceries' or 'Subscriptions,' helping you pinpoint where to optimize your budget.
 ![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wsh0pbiukifd2uvrf3av.png)
 
+
 Go beyond raw numbers. Our Analytics visually map your spending trends and category breakdowns, transforming data into actionable insights so you can identify habits and find opportunities to save.
-![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/dz382lajvu8wb2tpi6ee.png)
+![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/j3py7jee1sgas05ynzr2.png)
+![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/oizje9uj5rkvlxxo2gh5.png)
+
 
 Take control with flexible budgeting. Easily set (and update) overall monthly or category-specific budgets, and instantly see how you're tracking with clear visual progress, empowering smarter financial decisions before you overspend.
 ![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wp7q60ijr7fjaf96ll5g.png)
+
 
 Personalize your experience by selecting your preferred currency for expense tracking. Your profile also conveniently displays your unique LEDGR forwarding email address, ready for you to start automating!
 ![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zpz7vxtcspjmt1o8o6j8.png)
