@@ -2,6 +2,8 @@ import { create } from 'zustand';
 import { supabase } from '../lib/supabaseClient';
 import type { User } from '../types/types';
 
+const main = 	'3a3515b0fde9bd62a7644b11a512933b'
+
 interface AuthState {
   user: User | null;
   isLoading: boolean;
@@ -44,7 +46,6 @@ export const useStore = create<AuthState>((set, get) => ({
         
         // Set the email forwarding address
         const forwardingDomain = import.meta.env.VITE_FORWARDING_EMAIL_DOMAIN || 'your-inbound-domain.com';
-        const main = 	'3a3515b0fde9bd62a7644b11a512933b'
         const emailForwardingAddress = `${main}+${user.id}@${forwardingDomain}`;
         
         set({
