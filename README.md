@@ -31,25 +31,25 @@ LEDGR offers a "zero-effort" solution by leveraging email forwarding and AI:
 
 ## Screenshots
 
-Your dashboard shows a quick view of your total spending, budget status, order status, recent purchases etc.
+Your personalized dashboard offers an at-a-glance overview of your financial health: see total spending, stay on top of budget progress, track order processing, and review recent purchases, all in one place for quick decision-making.
 ![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ubm6jfkdtxn4ad01c8fm.png)
 
-The Orders tab shows all your orders based on the emails you have forwarded to LEDGR.
+The Orders tab neatly lists every purchase automatically logged from your forwarded emails, providing a complete and easily searchable history of your online spending.
 ![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5cydllx9uri213ub4tei.png)
 
-You can get a detailed view into individual orders and the items included and categorised.
+Dive deeper into any purchase with a detailed order view. See every item, its price, and its AI-assigned category, giving you granular control and understanding of where your money went.
 ![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gdfdg77x7du4d1qoj5is.png)
 
-You can filter the items you have purchased based on categories.
+Instantly filter your purchases by category to understand spending in specific areas like 'Groceries' or 'Subscriptions,' helping you pinpoint where to optimize your budget.
 ![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wsh0pbiukifd2uvrf3av.png)
 
-Analytics visualise your spending trends, giving you insights into your spending habits efficiently.
+Go beyond raw numbers. Our Analytics visually map your spending trends and category breakdowns, transforming data into actionable insights so you can identify habits and find opportunities to save.
 ![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/dz382lajvu8wb2tpi6ee.png)
 
-You can easily set (and update) monthly and weekly budgets and track them.
+Take control with flexible budgeting. Easily set (and update) overall monthly or category-specific budgets, and instantly see how you're tracking with clear visual progress, empowering smarter financial decisions before you overspend.
 ![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wp7q60ijr7fjaf96ll5g.png)
 
-You can configure the currency of your choice to track your expenses. Your profile contains your unique forwarding email address for LEDGR.
+Personalize your experience by selecting your preferred currency for expense tracking. Your profile also conveniently displays your unique LEDGR forwarding email address, ready for you to start automating!
 ![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zpz7vxtcspjmt1o8o6j8.png)
 
 
