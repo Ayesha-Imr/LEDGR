@@ -4,7 +4,9 @@ Receipts In, Insights Out. Automatically.
 **LEDGR is an intelligent personal finance tool that automates expense tracking by parsing order confirmation emails. Simply forward your digital receipts, and LEDGR uses AI to extract, categorize, and visualize your spending.**
 
 
-**Live Demo:** https://ledgr-neon.vercel.app/
+**Website:** https://ledgr-neon.vercel.app/
+
+**Demo Video:** https://youtu.be/Pe2gne6aycI?si=xKiZxkRUV2mtB3CL
 
 
 ## The Problem
