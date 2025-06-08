@@ -6,7 +6,9 @@ Receipts In, Insights Out. Automatically.
 
 **Website:** https://ledgr-neon.vercel.app/
 
-**Demo Video:** https://youtu.be/Pe2gne6aycI?si=xKiZxkRUV2mtB3CL
+**Demo Video:** 
+
+[![Watch the video](https://img.youtube.com/vi/Pe2gne6aycI/0.jpg)](https://www.youtube.com/watch?v=Pe2gne6aycI)
 
 
 ## The Problem
@@ -49,7 +51,7 @@ Instantly filter your purchases by category to understand spending in specific a
 ![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wsh0pbiukifd2uvrf3av.png)
 
 
-Go beyond raw numbers. Our Analytics visually map your spending trends and category breakdowns, transforming data into actionable insights so you can identify habits and find opportunities to save.
+Go beyond raw numbers. Analytics visually map your spending trends and category breakdowns, transforming data into actionable insights so you can identify habits and find opportunities to save.
 ![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/j3py7jee1sgas05ynzr2.png)
 ![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/oizje9uj5rkvlxxo2gh5.png)
 
@@ -59,7 +61,7 @@ Take control with flexible budgeting. Easily set (and update) overall monthly or
 
 
 Personalize your experience by selecting your preferred currency for expense tracking. Your profile also conveniently displays your unique LEDGR forwarding email address, ready for you to start automating!
-![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zpz7vxtcspjmt1o8o6j8.png)
+![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/a4iri45p4dpj3gfdrwvv.png)
 
 
 ## Tech Stack
